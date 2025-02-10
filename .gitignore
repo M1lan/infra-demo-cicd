@@ -11,8 +11,3 @@ terraform.tfstate.backup
 /build/
 .env
 .DS_Store
-*.yaml
-*.yml
-*.sh
-*.bash
-*.md
